@@ -78,7 +78,7 @@ const MaterialUI: React.FC = () => {
             Test
           </Grid>
         </Grid>
-        <Grid item xs={12} container justify='space-around'>
+        <Grid item xs={12} container justifyContent='space-around'>
           <Grid item xs={3}>
             The component maps the variant prop to a range of different HTML
             element types
